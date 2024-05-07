@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogJ4rh4qtHQ1lCR6hKCISL56JAZ5WgAjrSAEmTx4/bkBRX5XtM7C/icloLaC+HwhHL8NCYV4IONwz2WEdTYs6Q==",
+  "success": true,
+  "projectFilePath": "D:\\LSC1\\primer-parcial-solid-transporte\\primer-parcial-solid-transporte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jalatec-1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
